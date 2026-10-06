@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>New Compny_HRcase</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Compny_HRcase</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">dd21b6f78c5103100a22deb6dd2b4e61</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-10-06 07:56:51</sys_created_on>
+        <sys_id>63d5514593f3cbd0e6caf82bdd03d672</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Compny_HRcase</sys_name>
+        <sys_package display_value="HR Case Management" source="x_2221051_hr_cas_0">7e7c014593b3cbd0e6caf82bdd03d60b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HR Case Management">7e7c014593b3cbd0e6caf82bdd03d60b</sys_scope>
+        <sys_update_name>sys_wizard_answer_63d5514593f3cbd0e6caf82bdd03d672</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-10-06 07:56:51</sys_updated_on>
+        <table/>
+        <target_url>x_2221051_hr_cas_0_compny_hrcase.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>
