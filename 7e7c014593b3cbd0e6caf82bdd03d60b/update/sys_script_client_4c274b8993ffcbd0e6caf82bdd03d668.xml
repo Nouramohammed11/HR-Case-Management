@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description/>
+        <field>caller</field>
+        <global>true</global>
+        <isolate_script>true</isolate_script>
+        <messages/>
+        <name>Populate Department and Email from Calle</name>
+        <order/>
+        <script><![CDATA[function onChange(control, oldValue, newValue, isLoading, isTemplate) {
+if (!newValue) {
+g_form.clearValue('department');
+g_form.clearValue('email');
+return;
+}
+var ga = new GlideAjax('HRCaseUserUtils');
+ga.addParam('sysparm_name', 'getUserDetails');
+ga.addParam('sysparm_caller_id', newValue);
+ga.getXMLAnswer(function(answer) {
+if (!answer) {
+return;
+}
+var userDetails = JSON.parse(answer);
+g_form.setValue(
+'department',
+userDetails.department
+);
+g_form.setValue(
+'email',
+userDetails.email
+);
+});
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-10-06 16:23:00</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>4c274b8993ffcbd0e6caf82bdd03d668</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Populate Department and Email from Calle</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="HR Case Management" source="x_2221051_hr_cas_0">7e7c014593b3cbd0e6caf82bdd03d60b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HR Case Management">7e7c014593b3cbd0e6caf82bdd03d60b</sys_scope>
+        <sys_update_name>sys_script_client_4c274b8993ffcbd0e6caf82bdd03d668</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-10-06 16:23:00</sys_updated_on>
+        <table>x_2221051_hr_cas_0_compny_hrcase</table>
+        <type>onChange</type>
+        <ui_type>10</ui_type>
+        <view/>
+    </sys_script_client>
+</record_update>

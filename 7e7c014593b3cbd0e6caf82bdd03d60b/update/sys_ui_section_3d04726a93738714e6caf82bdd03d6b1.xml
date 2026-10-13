@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="x_2221051_hr_cas_0_compny_hrcase" section_id="3d04726a93738714e6caf82bdd03d6b1" sys_domain="global" table="x_2221051_hr_cas_0_compny_hrcase" version="3" view="Create_">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-13 07:19:27</sys_created_on>
+            <sys_id>d470dd5393bb8b14e6caf82bdd03d639</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="x_2221051_hr_cas_0_compny_hrcase" display_value="x_2221051_hr_cas_0_compny_hrcase" name="x_2221051_hr_cas_0_compny_hrcase" sys_domain="global" view="a504326a93738714e6caf82bdd03d6e2">3d04726a93738714e6caf82bdd03d6b1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-13 07:19:27</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>caller</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-13 07:19:28</sys_created_on>
+            <sys_id>9c70dd5393bb8b14e6caf82bdd03d63a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="x_2221051_hr_cas_0_compny_hrcase" display_value="x_2221051_hr_cas_0_compny_hrcase" name="x_2221051_hr_cas_0_compny_hrcase" sys_domain="global" view="a504326a93738714e6caf82bdd03d6e2">3d04726a93738714e6caf82bdd03d6b1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-13 07:19:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>department</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-13 07:19:28</sys_created_on>
+            <sys_id>1c70dd5393bb8b14e6caf82bdd03d63b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="x_2221051_hr_cas_0_compny_hrcase" display_value="x_2221051_hr_cas_0_compny_hrcase" name="x_2221051_hr_cas_0_compny_hrcase" sys_domain="global" view="a504326a93738714e6caf82bdd03d6e2">3d04726a93738714e6caf82bdd03d6b1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-13 07:19:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>email</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-13 07:19:28</sys_created_on>
+            <sys_id>a870dd5393bb8b14e6caf82bdd03d63c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="x_2221051_hr_cas_0_compny_hrcase" display_value="x_2221051_hr_cas_0_compny_hrcase" name="x_2221051_hr_cas_0_compny_hrcase" sys_domain="global" view="a504326a93738714e6caf82bdd03d6e2">3d04726a93738714e6caf82bdd03d6b1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-13 07:19:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>description</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-13 07:19:29</sys_created_on>
+            <sys_id>6870dd5393bb8b14e6caf82bdd03d694</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="x_2221051_hr_cas_0_compny_hrcase" display_value="x_2221051_hr_cas_0_compny_hrcase" name="x_2221051_hr_cas_0_compny_hrcase" sys_domain="global" view="a504326a93738714e6caf82bdd03d6e2">3d04726a93738714e6caf82bdd03d6b1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-13 07:19:29</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>short_description</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-13 07:19:29</sys_created_on>
+            <sys_id>e470dd5393bb8b14e6caf82bdd03d695</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="x_2221051_hr_cas_0_compny_hrcase" display_value="x_2221051_hr_cas_0_compny_hrcase" name="x_2221051_hr_cas_0_compny_hrcase" sys_domain="global" view="a504326a93738714e6caf82bdd03d6e2">3d04726a93738714e6caf82bdd03d6b1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-13 07:19:29</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-13 07:19:29</sys_created_on>
+            <sys_id>6470dd5393bb8b14e6caf82bdd03d696</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="x_2221051_hr_cas_0_compny_hrcase" display_value="x_2221051_hr_cas_0_compny_hrcase" name="x_2221051_hr_cas_0_compny_hrcase" sys_domain="global" view="a504326a93738714e6caf82bdd03d6e2">3d04726a93738714e6caf82bdd03d6b1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-13 07:19:29</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-13 07:19:29</sys_created_on>
+            <sys_id>e070dd5393bb8b14e6caf82bdd03d697</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="x_2221051_hr_cas_0_compny_hrcase" display_value="x_2221051_hr_cas_0_compny_hrcase" name="x_2221051_hr_cas_0_compny_hrcase" sys_domain="global" view="a504326a93738714e6caf82bdd03d6e2">3d04726a93738714e6caf82bdd03d6b1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-13 07:19:29</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>category</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-13 07:19:29</sys_created_on>
+            <sys_id>7070dd5393bb8b14e6caf82bdd03d698</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="x_2221051_hr_cas_0_compny_hrcase" display_value="x_2221051_hr_cas_0_compny_hrcase" name="x_2221051_hr_cas_0_compny_hrcase" sys_domain="global" view="a504326a93738714e6caf82bdd03d6e2">3d04726a93738714e6caf82bdd03d6b1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-13 07:19:29</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>subcategory</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-13 07:19:30</sys_created_on>
+            <sys_id>fc70dd5393bb8b14e6caf82bdd03d698</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="x_2221051_hr_cas_0_compny_hrcase" display_value="x_2221051_hr_cas_0_compny_hrcase" name="x_2221051_hr_cas_0_compny_hrcase" sys_domain="global" view="a504326a93738714e6caf82bdd03d6e2">3d04726a93738714e6caf82bdd03d6b1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-13 07:19:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>x_2221051_hr_cas_0_compny_hrcase</caption>
+            <header>false</header>
+            <name>x_2221051_hr_cas_0_compny_hrcase</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-11 06:39:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3d04726a93738714e6caf82bdd03d6b1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_2221051_hr_cas_0_compny_hrcase</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="HR Case Management" source="x_2221051_hr_cas_0">7e7c014593b3cbd0e6caf82bdd03d60b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="HR Case Management">7e7c014593b3cbd0e6caf82bdd03d60b</sys_scope>
+            <sys_update_name>sys_ui_section_3d04726a93738714e6caf82bdd03d6b1</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-11 06:39:08</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Create_" name="Create_">a504326a93738714e6caf82bdd03d6e2</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>x_2221051_hr_cas_0.HRCaseUserUtils</api_name>
+        <caller_access/>
+        <client_callable>true</client_callable>
+        <description/>
+        <mobile_callable>false</mobile_callable>
+        <name>HRCaseUserUtils</name>
+        <sandbox_callable>false</sandbox_callable>
+        <script><![CDATA[var HRCaseUserUtils = Class.create();
+HRCaseUserUtils.prototype = Object.extendsObject(global.AbstractAjaxProcessor, {
+getUserDetails: function() {
+var callerId = this.getParameter('sysparm_caller_id');
+if (!callerId) {
+return '';
+}
+var userGR = new GlideRecord('sys_user');
+if (userGR.get(callerId)) {
+return JSON.stringify({
+department: userGR.getValue('department') || '',
+email: userGR.getValue('email') || ''
+});
+}
+return '';
+},
+type: 'HRCaseUserUtils'
+});]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-10-06 16:08:33</sys_created_on>
+        <sys_id>b9f48b8593ffcbd0e6caf82bdd03d6b6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>HRCaseUserUtils</sys_name>
+        <sys_package display_value="HR Case Management" source="x_2221051_hr_cas_0">7e7c014593b3cbd0e6caf82bdd03d60b</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="HR Case Management">7e7c014593b3cbd0e6caf82bdd03d60b</sys_scope>
+        <sys_update_name>sys_script_include_b9f48b8593ffcbd0e6caf82bdd03d6b6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-10-06 16:08:33</sys_updated_on>
+    </sys_script_include>
+</record_update>

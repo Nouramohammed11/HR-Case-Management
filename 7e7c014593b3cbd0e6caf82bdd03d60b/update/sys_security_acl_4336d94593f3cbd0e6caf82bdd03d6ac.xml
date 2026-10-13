@@ -7,7 +7,7 @@
         <condition/>
         <controlled_by_refs/>
         <decision_type>allow</decision_type>
-        <description>Allow delete for records in x_2221051_hr_cas_0_compny_hrcase, for users with role x_2221051_hr_cas_0.admin.</description>
+        <description>Allow delete for records in x_2221051_hr_cas_0_compny_hrcase, for users with role x_2221051_hr_cas_0.admin and x_2221051_hr_cas_0..hr_admin </description>
         <local_or_existing>Existing</local_or_existing>
         <name>x_2221051_hr_cas_0_compny_hrcase</name>
         <operation display_value="delete">delete</operation>
@@ -17,14 +17,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2026-10-06 07:58:27</sys_created_on>
         <sys_id>4336d94593f3cbd0e6caf82bdd03d6ac</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>x_2221051_hr_cas_0_compny_hrcase</sys_name>
         <sys_package display_value="HR Case Management" source="x_2221051_hr_cas_0">7e7c014593b3cbd0e6caf82bdd03d60b</sys_package>
         <sys_policy/>
         <sys_scope display_value="HR Case Management">7e7c014593b3cbd0e6caf82bdd03d60b</sys_scope>
         <sys_update_name>sys_security_acl_4336d94593f3cbd0e6caf82bdd03d6ac</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2026-10-06 07:58:31</sys_updated_on>
+        <sys_updated_on>2026-10-12 06:38:04</sys_updated_on>
         <type display_value="record">record</type>
     </sys_security_acl>
 </record_update>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="user_criteria">
+    <user_criteria action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <advanced>false</advanced>
+        <company/>
+        <department/>
+        <group/>
+        <location/>
+        <match_all>false</match_all>
+        <name>HR Case Resolvers</name>
+        <role name="x_2221051_hr_cas_0.admin">e58c414593b3cbd0e6caf82bdd03d6c2</role>
+        <script/>
+        <short_description/>
+        <sys_class_name>user_criteria</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-10-12 09:08:55</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>69cf1c03937b0b14e6caf82bdd03d61c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>HR Case Resolvers</sys_name>
+        <sys_package display_value="HR Case Management" source="x_2221051_hr_cas_0">7e7c014593b3cbd0e6caf82bdd03d60b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HR Case Management">7e7c014593b3cbd0e6caf82bdd03d60b</sys_scope>
+        <sys_update_name>user_criteria_69cf1c03937b0b14e6caf82bdd03d61c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-10-12 09:08:55</sys_updated_on>
+        <user/>
+    </user_criteria>
+    <sys_translated_text action="delete_multiple" query="documentkey=69cf1c03937b0b14e6caf82bdd03d61c"/>
+</record_update>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scope_privilege">
+    <sys_scope_privilege action="INSERT_OR_UPDATE">
+        <operation>read</operation>
+        <source_scope display_value="HR Case Management">7e7c014593b3cbd0e6caf82bdd03d60b</source_scope>
+        <status>allowed</status>
+        <sys_class_name>sys_scope_privilege</sys_class_name>
+        <sys_created_by>hr_case_test_user</sys_created_by>
+        <sys_created_on>2026-10-11 07:10:25</sys_created_on>
+        <sys_id>543bfe2693b38714e6caf82bdd03d6a4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sys_user</sys_name>
+        <sys_package display_value="HR Case Management" source="x_2221051_hr_cas_0">7e7c014593b3cbd0e6caf82bdd03d60b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HR Case Management">7e7c014593b3cbd0e6caf82bdd03d60b</sys_scope>
+        <sys_update_name>sys_scope_privilege_543bfe2693b38714e6caf82bdd03d6a4</sys_update_name>
+        <sys_updated_by>hr_case_test_user</sys_updated_by>
+        <sys_updated_on>2026-10-11 07:10:25</sys_updated_on>
+        <target_name>sys_user</target_name>
+        <target_scope display_value="Global">global</target_scope>
+        <target_type>sys_db_object</target_type>
+    </sys_scope_privilege>
+</record_update>

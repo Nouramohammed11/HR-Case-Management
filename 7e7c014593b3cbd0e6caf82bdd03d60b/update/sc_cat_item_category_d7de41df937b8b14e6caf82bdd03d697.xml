@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="HR Case Record Producer">7874811f933b8b14e6caf82bdd03d6e5</sc_cat_item>
+        <sc_category display_value="HR Case">b4be895f937b8b14e6caf82bdd03d6b9</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-10-13 07:12:34</sys_created_on>
+        <sys_id>d7de41df937b8b14e6caf82bdd03d697</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>HR Case.HR Case Record Producer</sys_name>
+        <sys_package display_value="HR Case Management" source="x_2221051_hr_cas_0">7e7c014593b3cbd0e6caf82bdd03d60b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HR Case Management">7e7c014593b3cbd0e6caf82bdd03d60b</sys_scope>
+        <sys_update_name>sc_cat_item_category_d7de41df937b8b14e6caf82bdd03d697</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-10-13 07:12:34</sys_updated_on>
+    </sc_cat_item_category>
+</record_update>
